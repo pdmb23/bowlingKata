@@ -1,5 +1,0 @@
-C:\pd\ERNI\codingDojo\codes\bowling_PD\BowlingKata\BowlingKata\bin\Debug\BowlingKata.dll
-C:\pd\ERNI\codingDojo\codes\bowling_PD\BowlingKata\BowlingKata\bin\Debug\BowlingKata.pdb
-C:\pd\ERNI\codingDojo\codes\bowling_PD\BowlingKata\BowlingKata\obj\Debug\BowlingKata.dll
-C:\pd\ERNI\codingDojo\codes\bowling_PD\BowlingKata\BowlingKata\obj\Debug\BowlingKata.pdb
-C:\pd\ERNI\codingDojo\codes\bowling_PD\BowlingKata\BowlingKata\obj\Debug\BowlingKata.csprojResolveAssemblyReference.cache
