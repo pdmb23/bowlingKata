@@ -1,0 +1,7 @@
+C:\pd\ERNI\codingDojo\codes\bowling_PD\BowlingKata\BowlingUnitTest\bin\Debug\BowlingUnitTest.dll
+C:\pd\ERNI\codingDojo\codes\bowling_PD\BowlingKata\BowlingUnitTest\bin\Debug\BowlingUnitTest.pdb
+C:\pd\ERNI\codingDojo\codes\bowling_PD\BowlingKata\BowlingUnitTest\bin\Debug\BowlingKata.dll
+C:\pd\ERNI\codingDojo\codes\bowling_PD\BowlingKata\BowlingUnitTest\bin\Debug\BowlingKata.pdb
+C:\pd\ERNI\codingDojo\codes\bowling_PD\BowlingKata\BowlingUnitTest\obj\Debug\BowlingUnitTest.csprojResolveAssemblyReference.cache
+C:\pd\ERNI\codingDojo\codes\bowling_PD\BowlingKata\BowlingUnitTest\obj\Debug\BowlingUnitTest.dll
+C:\pd\ERNI\codingDojo\codes\bowling_PD\BowlingKata\BowlingUnitTest\obj\Debug\BowlingUnitTest.pdb
